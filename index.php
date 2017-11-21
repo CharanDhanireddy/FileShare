@@ -4,8 +4,6 @@
   </head>
   <body>
     <h1>Hello All !! This is an online sharing Platform </h1>
-
-
     <form action="upload.php" method="post" enctype="multipart/form-data">
     Select file to upload:
     <input type="file" name="fileToUpload" id="fileToUpload">
