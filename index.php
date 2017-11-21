@@ -12,12 +12,6 @@
     <br>Do you want to add a password ?  : 
     <input type="password" name="pass" id="pass"><br>
     <input type="submit" value="Upload" name="submit">
-</form>	
-
-    <p>
-      <?php
-	//echo "YET TO BE DONE:<br>UPLOADING FILES WITH MORE SIZE AND FOLDERS<br>DATABASE CLEANING<br>PASSWORD PROTECTION<br>LOGIN";
-      ?>
-    </p>
+</form>
   </body>
 </html>
